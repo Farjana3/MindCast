@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:2200/predict";
+const API_URL = "https://mindcast-h4er.onrender.com";
 
 const form = document.getElementById("predict-form");
 const btn = document.getElementById("predict-btn");
